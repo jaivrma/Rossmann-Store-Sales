@@ -1,4 +1,3 @@
-# Rossmann-Store-Sales
 # Rossmann Store Sales Analysis
 
 ## Project Overview
