@@ -13,4 +13,4 @@ This project analyzes Rossmann store sales data to uncover patterns and factors 
 - `SchoolHoliday`: Whether it was a school holiday (0 = No, 1 = Yes)
 
 **Source:**
-Kaggle - https://www.kaggle.com/competitions/rossmann-store-sales/data?select=train.csv
+Kaggle - [Rossmann-Store-Sales-Data](https://www.kaggle.com/competitions/rossmann-store-sales/data?select=train.csv)
