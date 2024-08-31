@@ -11,4 +11,6 @@ This project analyzes Rossmann store sales data to uncover patterns and factors 
 - `Promo`: Whether there was a promotion (0 = No, 1 = Yes)
 - `StateHoliday`: Whether it was a state holiday (0 = None, 1 = Public Holiday, 2 = Easter Holiday, 3 = Christmas)
 - `SchoolHoliday`: Whether it was a school holiday (0 = No, 1 = Yes)
-- Additional columns with store-specific information
+
+**Source:**
+Kaggle - https://www.kaggle.com/competitions/rossmann-store-sales/data?select=train.csv
