@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data from GitHub raw URL
-url = r"C:\Users\verma\Downloads\projectdata.csv"
+url = r"https://github.com/jaivrma/Rossmann-Store-Sales/blob/main/projectdata.csv"
 df = pd.read_csv(url, low_memory=False)
 
 # Print column names to inspect them
